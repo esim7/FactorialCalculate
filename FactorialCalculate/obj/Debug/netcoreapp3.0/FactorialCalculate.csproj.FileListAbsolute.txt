@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\bin\Debug\netcoreapp3.0\FactorialCalculate.exe
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\bin\Debug\netcoreapp3.0\FactorialCalculate.deps.json
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\bin\Debug\netcoreapp3.0\FactorialCalculate.runtimeconfig.json
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\bin\Debug\netcoreapp3.0\FactorialCalculate.runtimeconfig.dev.json
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\bin\Debug\netcoreapp3.0\FactorialCalculate.dll
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\bin\Debug\netcoreapp3.0\FactorialCalculate.pdb
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\obj\Debug\netcoreapp3.0\FactorialCalculate.csprojAssemblyReference.cache
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\obj\Debug\netcoreapp3.0\FactorialCalculate.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\obj\Debug\netcoreapp3.0\FactorialCalculate.AssemblyInfo.cs
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\obj\Debug\netcoreapp3.0\FactorialCalculate.dll
+C:\Users\home\source\repos\FactorialCalculate\FactorialCalculate\obj\Debug\netcoreapp3.0\FactorialCalculate.pdb
